@@ -19,9 +19,13 @@
 ## MAC
 
 1) Open *terminal*
+
 2) run `ssh-keygen`
+
 3) Hit enter until it finishes (don't add password etc)
+
 4) run `pbcopy < ~/.ssh/id_rsa.pub`
+
 5) You're ready to paste the key to Github and Gitlab 
 
 ### **GITHUB**

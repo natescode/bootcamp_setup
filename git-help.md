@@ -50,8 +50,8 @@ copy the commands from github and paste into terminal (you may have to hit enter
 
 ---
 ## SAVE and PUBLISH to github
-
-    git pull
+    
     git add .
     git commit -m "your message of what you changed"
+    git pull
     git push
