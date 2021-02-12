@@ -1,5 +1,7 @@
 # SSH Keys
 
+## WINDOWS
+
 1) Download [PuTTY](https://www.putty.org)
 2) Run PuTTYgen
 3) Generate a new SSH Key. Hit *Generate* and move your mouse randomly.
@@ -13,6 +15,14 @@
 **EXAMPLE**
 
 ![alt text](./assets/save_ssh_keys.PNG "save ssh keys")
+
+## MAC
+
+1) Open *terminal*
+2) run `ssh-keygen`
+3) Hit enter until it finishes (don't add password etc)
+4) run `pbcopy < ~/.ssh/id_rsa.pub`
+5) You're ready to paste the key to Github and Gitlab 
 
 ### **GITHUB**
 ---
