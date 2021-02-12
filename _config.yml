@@ -4,6 +4,8 @@ relative_links:
   enabled: true
   collections: true
 include:
+  - git-help-md
+  - ssh-key-help.md
   - CONTRIBUTING.md
   - README.md
   - LICENSE.md
