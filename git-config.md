@@ -3,7 +3,8 @@
 
 ## Aliases
 
-I have several aliases for my git commands. 
+I have several aliases for my git commands. These reduce typing but also make the API a bit
+cleaner to work with for advanced opperations.
 
 Here's what my `.gitconfig` in my home directory looks like
 
